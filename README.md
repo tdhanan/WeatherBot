@@ -1,4 +1,4 @@
 # WeatherBot
-Developed a serverless text-based and voice-based Weather chatbot utilizing cloud technologies.
-Created an intuitive voice interface that allows users to interact with the chatbot seamlessly and used HTML and CSS to create a visually appealing interface for the chatbot
-It is developed using different AWS services like Lex, Lambda, Cloudfront, API Gateway, S3 and DynamoDB.
+The project involved the development of a serverless chatbot for weather information, which leveraged cloud technologies to support text-based and voice-based interactions.
+The chatbot included an intuitive voice interface that ensured a seamless user experience, while an aesthetically pleasing interface was created using HTML and CSS. 
+The project was built using a range of AWS services, including Lex, Lambda, Cloudfront, API Gateway, S3, and DynamoDB.
